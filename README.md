@@ -6,6 +6,7 @@ Fronted is implemented with __JavaFX__
 
 The application allows to interact with collection of objects. On first page users have to sign in.
 Also users can choose the language. 
+
 ![Example](reg2.jpg)
 
 After authorization users see actions which is allowed for changing data in collection.
