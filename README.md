@@ -23,7 +23,7 @@ On Visualisation page users see all objects. They can click on rectangle and cha
 
 ![Example](vis.jpg)
 
-For multiplayer interaction I realised __multithreading__ in this project. 
+For multiuser interaction I realised __multithreading__ in this project. 
 
 The connection between client and server is implemented with __TCP protocol__.
 
